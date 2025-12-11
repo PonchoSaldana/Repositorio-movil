@@ -76,7 +76,7 @@ class MainActivity : AppCompatActivity() {
         btnStartIconAnim.setOnClickListener {
 
             imgIconAnim.animate().apply {
-                duration = 10
+                duration = 100000
                 rotationBy(360f) // Girar 360 grados
                 scaleX(1.5f)     // Crecer en X
                 scaleY(1.5f)     // Crecer en Y
