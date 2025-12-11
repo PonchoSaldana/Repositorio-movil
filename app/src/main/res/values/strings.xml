@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab IV</string>
+    <string name="imagen">Imagen</string>
+    <string name="imagen_principal">Imagen principal</string>
+    <string name="animar_imagen">Animar Imagen</string>
+    <string name="audio">Audio</string>
+    <string name="reproducir">Reproducir</string>
+    <string name="pausar">Pausar</string>
+    <string name="video">Video</string>
+    <string name="iniciar_video">Iniciar Video</string>
+    <string name="animacion_icono">Animación (Icono)</string>
+    <string name="icono_animado">Icono animado</string>
+    <string name="girar_icono">Girar Icono</string>
+</resources>
